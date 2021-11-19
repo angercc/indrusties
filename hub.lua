@@ -1,5 +1,5 @@
 {
-    "Blood": [
+    "Default": [
         2,
         "https://raw.githubusercontent.com/angercc/silentaim2/main/hub.lua"
     ],
