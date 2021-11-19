@@ -1,8 +1,11 @@
 {
-    "Default": [
-        2,
-        "https://raw.githubusercontent.com/angercc/silentaim2/main/hub.lua"
-    ],
+    "Default": {
+        "ThemeIndex": 1,
+        "Primary": [41, 53, 68],
+        "Secondary": [35, 47, 62],
+        "Tertiary": [28, 41, 56],
+        "Quaternary": [18, 98, 159]
+    },
     "Blue": [
         3,
         "https://raw.githubusercontent.com/angercc/silentaim2/main/hub.lua"
