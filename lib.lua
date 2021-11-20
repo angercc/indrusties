@@ -27,7 +27,7 @@ coreVars.colors = {
 	Primary = Color3.fromRGB(24, 20, 44),
 	Secondary = Color3.fromRGB(32,28,52),
 	Tertiary = Color3.fromRGB(32,28,52),
-	Quaternary = Color3.fromRGB(32, 28, 52)
+	Quaternary = Color3.fromRGB(24, 20, 44)
 };
 
 if _G.EzHubTheme then
