@@ -12,7 +12,7 @@ local coreGUIFuncs = {};	-- Stores functions that create the actual GUI
 
 coreVars.navDebounce = true;
 coreVars.usingSlider = false;
-coreVars.elementX = 375;
+coreVars.elementX = 360;
 coreVars.sliderUsed = nil;
 
 -- Used for keybind ui.
