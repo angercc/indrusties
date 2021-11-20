@@ -24,10 +24,10 @@ game:GetService("UserInputService").InputBegan:Connect(function(input)
 	end
 end)
 coreVars.colors = {
-	Primary = Color3.fromRGB(46, 41, 74),
-	Secondary = Color3.fromRGB(24,20,44),
-	Tertiary = Color3.fromRGB(32,28,52),
-	Quaternary = Color3.fromRGB(46, 41, 74)
+	Primary = Color3.fromRGB(24, 20, 44),
+	Secondary = Color3.fromRGB(32, 28, 52),
+	Tertiary = Color3.fromRGB(32, 28, 52),
+	Quaternary = Color3.fromRGB(32, 28, 52)
 };
 
 if _G.EzHubTheme then
