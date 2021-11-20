@@ -25,7 +25,7 @@ game:GetService("UserInputService").InputBegan:Connect(function(input)
 end)
 coreVars.colors = {
 	Primary = Color3.fromRGB(24, 20, 44),
-	Secondary = Color3.fromRGB(32, 28, 52),
+	Secondary = Color3.fromRGB(34,27,50),
 	Tertiary = Color3.fromRGB(32, 28, 52),
 	Quaternary = Color3.fromRGB(32, 28, 52)
 };
